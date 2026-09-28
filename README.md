@@ -33,10 +33,7 @@ cmake ..
 cmake --build .
 ```
 
-Run the generated application after the build completes.
 
-
-Add screenshots of the application here.
 
 ## 👩‍💻 Author
 
